@@ -37,14 +37,6 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 <h4 align="left">Back-End Tools:</h4>
 <p>
@@ -81,8 +73,16 @@
     />
   </a>
 </p>
-<h4 align="left">Back-End Tools:</h4>
+<h4 align="left">Mobile Tools:</h4>
 <p>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"
@@ -91,6 +91,9 @@
       height="40"
     />
   </a>
+</p>
+<h4 align="left">Back-End Tools:</h4>
+<p>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
