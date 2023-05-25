@@ -7,6 +7,7 @@
     🌱 I love to keep interested in the news about it: **Angular | React |
     NodeJS | Java | Python**
   </li>
+  <li>🤓 Now I am taking a certification with Red Hat -> Red Hat Fuse</li>
   <li>
     🧠 In my spare time you may find me in geek activities or in gym (sport
     forma mentis)
@@ -186,6 +187,18 @@
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.redhat.com/it/technologies/cloud-computing/openshift"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"
+      alt="openshift"
       width="40"
       height="40"
     />
