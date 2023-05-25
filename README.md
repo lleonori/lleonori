@@ -2,7 +2,7 @@
 <h3 align="left">A passionate full stack developer</h3>
 
 <ul>
-  <li>🔭 Lavoro in **Par-Tec**</li>
+  <li>🔭 I work in **Par-Tec**</li>
   <li>
     🌱 I love to keep interested in the news about it: **Angular | React |
     NodeJS | Java | Python**
