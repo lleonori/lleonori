@@ -1,10 +1,19 @@
 <h1 align="left">Hi 👋, I'm Lorenzo Leonori</h1>
-<h3 align="left">A passionate fullstack developer from Italy</h3>
+<h3 align="left">A passionate full stack developer</h3>
 
 <ul>
-  <li>🔭 I’m currently working at **Par-Tec**</li>
+  <li>🔭 Lavoro in **Par-Tec**</li>
   <li>
-    🌱 I’m currently learning **Angular | React | NodeJS | Java | Python**
+    🌱 I love to keep interested in the news about it: **Angular | React |
+    NodeJS | Java | Python**
+  </li>
+  <li>
+    🧠 In my spare time you may find me in geek activities or in gym (sport
+    forma mentis)
+  </li>
+  <li>
+    ⚡ Gamer | Competitive athlete | Fan of Marvel, DC Comics and Anime |
+    Experiment disseminator
   </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
