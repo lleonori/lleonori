@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lorenzo Leonori</h1>
-<!-- <h3 align="center">A passionate fullstack developer from Italy</h3>
+<h3 align="center">A passionate fullstack developer from Italy</h3>
 
 - 🔭 I’m currently working at **Par-Tec** - 🌱 I’m currently learning **Angular
 | React | NodeJS | Java | Python** -->
