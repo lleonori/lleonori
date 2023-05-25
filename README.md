@@ -1,10 +1,13 @@
 <h1 align="left">Hi 👋, I'm Lorenzo Leonori</h1>
 <h3 align="left">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working at **Par-Tec** - 🌱 I’m currently learning **Angular
-| React | NodeJS | Java | Python**
-
-<!-- <h3 align="left">Connect with me:</h3>
+<ul>
+  <li>🔭 I’m currently working at **Par-Tec**</li>
+  <li>
+    🌱 I’m currently learning **Angular | React | NodeJS | Java | Python**
+  </li>
+</ul>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/feed/"
@@ -16,8 +19,7 @@
       height="30"
       width="40"
   /></a>
-</p> -->
-
+</p>
 <h4 align="left">Front-End:</h4>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -139,6 +141,14 @@
       alt="bootstrap"
       width="40"
       height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+      alt="bootstrap"
+      width="50"
+      height="20"
     />
   </a>
 </p>
