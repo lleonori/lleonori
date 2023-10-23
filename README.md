@@ -30,7 +30,7 @@
       width="40"
   /></a>
 </p>
-<h4 align="left">Front-End:</h4>
+<!--<h4 align="left">Front-End:</h4>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
@@ -296,4 +296,4 @@
       height="40"
     />
   </a>
-</p>
+</p>-->
