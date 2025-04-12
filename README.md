@@ -5,9 +5,9 @@
   <li>🔭 I work in **Par-Tec**</li>
   <li>
     🌱 I love to keep interested in the news about it: **Angular | React |
-    NodeJS | Java | Python**
+    NodeJS | Javascript**
   </li>
-  <li>🤓 Now I am taking a certification with Red Hat -> Red Hat Fuse</li>
+  <li>🤓 Now I am taking a certification with Confluent -> Kafka</li>
   <li>
     🧠 In my spare time you may find me in geek activities or in gym (sport
     forma mentis)
